@@ -1,4 +1,4 @@
-# Screenshots (working)
+# Screenshots:
 
 ![image](https://user-images.githubusercontent.com/43209472/128313371-4cb0490e-3e03-4ef1-a600-9ca7a34a6669.png)
 
